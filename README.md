@@ -5,7 +5,8 @@ This module adds GraphQL support for [FieldtypeSelectExtOption](https://github.c
 use with [ProcessGraphQL](https://github.com/dadish/ProcessGraphQL) module.
 
 ### Installation
-This module's files should be placed in /site/modules/GraphQLFieldtypeSelectExtOption/ 
+This module's files should be placed in /site/modules/GraphQLFieldtypeSelectExtOption/
+
 [How to install or uninstall modules](http://modules.processwire.com/install-uninstall/)
 
 ### Usage
