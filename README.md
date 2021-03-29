@@ -2,7 +2,7 @@ GraphQLFieldtypeSelectExtOption
 =========================
 
 This module adds GraphQL support for [FieldtypeSelectExtOption](https://github.com/kixe/FieldtypeSelectExtOption). It is only intended for 
-use with [ProcessGraphQL][https://github.com/dadish/ProcessGraphQL] module.
+use with [ProcessGraphQL](https://github.com/dadish/ProcessGraphQL) module.
 
 ### Installation
 This module's files should be placed in /site/modules/GraphQLFieldtypeSelectExtOption/ 
