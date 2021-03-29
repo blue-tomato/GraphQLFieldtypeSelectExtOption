@@ -15,15 +15,16 @@ This module's files should be placed in /site/modules/GraphQLFieldtypeSelectExtO
 Everything works behind the scenes for this module. After you installed it, FieldtypeSelectExtOption 
 fields will be available in your GraphQL api. This module takes the MySQL datatypes of your external table and maps them to GraphQL.
 
-| MySQL Type | GraphQL Type |
-| VAR_STRING | string |
-| STRING | string |
-| BLOB | string |
-| LONGLONG | int |
-| LONG | int |
-| SHORT | int |
-| DATETIME | string |
-| DATE | string |
-| DOUBLE | float |
-| TIMESTAMP | int |
-| BIT | boolean |
+| MySQL Type | GraphQL Type | 
+| --- | --- | 
+| VAR_STRING | string | 
+| STRING | string | 
+| BLOB | string | 
+| LONGLONG | int | 
+| LONG | int | 
+| SHORT | int | 
+| DATETIME | string | 
+| DATE | string | 
+| DOUBLE | float | 
+| TIMESTAMP | int | 
+| BIT | boolean | 
