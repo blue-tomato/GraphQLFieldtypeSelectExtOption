@@ -26,5 +26,6 @@ fields will be available in your GraphQL api. This module takes the MySQL dataty
 | DATETIME | string | 
 | DATE | string | 
 | DOUBLE | float | 
+| FLOAT | float | 
 | TIMESTAMP | int | 
 | BIT | boolean | 
