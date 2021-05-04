@@ -107,9 +107,9 @@ class GraphQLFieldtypeSelectExtOption extends WireData implements Module
       }
     }
 
-    $type = Cache::type(self::getName($field), function () use ($fields) {
+    $type = Cache::type(self::getName($field), function () use ($fields, $field) {
       return new InputObjectType([
-        'name' => self::$inputName,
+        'name' => "{$field->name}" . self::$inputName,
         'fields' => $fields
       ]);
     });
