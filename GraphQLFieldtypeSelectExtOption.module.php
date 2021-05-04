@@ -18,7 +18,7 @@ class GraphQLFieldtypeSelectExtOption extends WireData implements Module
 
     return array(
       'title' => 'GraphQLFieldtypeSelectExtOption',
-      'version' => '1.0.0',
+      'version' => '1.1.0',
       'summary' => 'GraphQL support for FieldtypeSelectExtOption.',
       'href' => 'https://github.com/blue-tomato/GraphQLFieldtypeSelectExtOption',
       'requires' => ['ProcessGraphQL', 'FieldtypeSelectExtOption']
